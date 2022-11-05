@@ -16,8 +16,10 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <br>
-
+<brK>
 <p align="center">
+  <a href="https://rocketpay-gilt-six.vercel.app/">** Visite o site em funcionamento clicando aqui! **</a>
+  
   <img alt="rocketpay" src=".github/project.png" width="100%">
 </p>
 
